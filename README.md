@@ -1,0 +1,30 @@
+# Data-analysis-of-E-Commerce-Dataset
+
+Dataset comprises more 5lakh rows,
+"This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered 
+non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers."
+
+Analyses for this dataset could include time series, clustering, classification and more.
+RFM analysis is performed on the dataset whose outcome is displayed using data visualization techniques.
+Those who don't know what is RFM
+RFM is a method used for analyzing customer value. It is commonly used in database marketing and direct marketing.
+RFM stands for:
+
+Recency: How recently did the customer purchase?
+
+Frequency: How often do they purchase?
+
+Monetary Value: How much do they spend?
+
+Customer purchases may be represented by a table with columns for the customer name, date of purchase and purchase value. 
+One approach to RFM is to assign a score for each dimension on a scale from 1 to 10. 
+The maximum score represents the preferred behavior and a formula could be used to calculate the three scores for each customer. 
+For example, a service-based business could use these calculations:
+
+Recency: the maximum of "10 – the number of months that have passed since the customer last purchased" and 1
+
+Frequency: the maximum of "the number of purchases by the customer in the last 12 months (with a limit of 10)" and 1
+
+Monetary: the highest value of all purchases by the customer expressed as a multiple of some benchmark value
+
+On the basis of these values customers are then divided into specific grpoups.
