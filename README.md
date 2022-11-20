@@ -28,3 +28,12 @@ Frequency: the maximum of "the number of purchases by the customer in the last 1
 Monetary: the highest value of all purchases by the customer expressed as a multiple of some benchmark value
 
 On the basis of these values customers are then divided into specific grpoups.
+
+![image](https://user-images.githubusercontent.com/109335985/202885485-7ff175ff-0932-4395-8f9d-55a93503b6af.png)
+
+Results:
+(1) Most of the customers are normal customers as there RFM value lie in normal range.
+(2) Most customers are from UK.
+(3) Maximum revenue is generated from Uk.
+(4) Most recently and frequently visited customers are also from Uk.
+(5) A noticable number of big splenders are lost.
